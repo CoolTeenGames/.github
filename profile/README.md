@@ -1,12 +1,9 @@
-## Hi there 👋
+# Cool Teen Games
 
-<!--
+We make games, for the fun of it.
 
-**Here are some ideas to get you started:**
+## Welcome to Cool Teen Games!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are a upcoming non profit individual group of people who make games, just for the fun of it.
+
+Game age rating may be ranging from Rated E to Rated 12.
